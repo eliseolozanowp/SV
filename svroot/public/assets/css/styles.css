@@ -1,0 +1,44 @@
+
+.header {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
+  .logo img {
+    width: 130px; /* Adjust the width as needed */
+  }
+  .navbar {
+    background-color: #1d3fba;
+    border-bottom: 1px solid #ccc;
+  }
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .navbar-nav .nav-link {
+    color: #333;
+    font-weight: bold;
+  }
+  .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  .navbar-toggler-icon {
+    color: #333;
+  }
+  .profile-menu {
+    list-style: none;
+  }
+  .profile-menu li {
+    display: inline-block;
+    margin-left: 10px;
+    background-color: rgb(199, 197, 197);
+    border-radius: 5px 10px;
+    
+  }
+  .profile-menu .nav-link {
+    padding: 0.5rem 1rem;
+  }
+  .profile-menu .nav-link:hover {
+    color: #007bff;
+  }
